@@ -5,7 +5,7 @@ from rossmann.Rossmann import Rossmann
 import os
 
 # loading model
-home_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+home_path = os.path.dirname(os.path.abspath(__file__))
 model_path = os.path.join(home_path, 'model')
 model = pickle.load(open(os.path.join(model_path, 'model_rossmann.pkl'), 'rb'))
 
