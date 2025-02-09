@@ -1,7 +1,7 @@
 Este é um projeto fictício. A empresa, o contexto e as perguntas de negócios não são reais. Este portfólio está seguindo as recomendações do blog  da [Comunidade DS](https://www.comunidadedatascience.com/os-5-projetos-de-data-science-que-fara-o-recrutador-olhar-para-voce/).
 
 O notebook com todos os passos realizados está disponivel [aqui](https://github.com/fernandachuerubim/curso_ds_producao/blob/main/m04_v01_store_sales_prediction.ipynb).
-O BOT com os produtos de dados em produção pode ser acessado via Telegram, pesquisando por [rossmann_dso_bot](http://t.me/fernanda_rossmann_bot). Ao enviar uma mensagem para o BOT, a resposta pode haver uma lentidão para aparecer, pois, o Render depois de um tempo sem uso desliga a aplicação.
+O BOT com os produtos de dados em produção pode ser acessado via Telegram, pesquisando por [fernanda_rossmann_bot](http://t.me/fernanda_rossmann_bot). Ao enviar uma mensagem para o BOT, a resposta pode haver uma lentidão para aparecer, pois, o Render depois de um tempo sem uso desliga a aplicação.
 O dataset está disponivel no [Kaggle](https://www.kaggle.com/c/rossmann-store-sales/data).
 
 
@@ -85,7 +85,7 @@ De acordo com os critérios definidos, foi feita uma previsão de vendas das pr�
 ## 5. Conclusão
 * O objetivo do projeto foi alcançado, dado que os produtos de dados propostos foram gerados com sucesso. O CFO e os gerentes já podem utilizar a solução para a tomada de decisão.
 
-O Bot no Telegram pode ser  acessado por [rossmann_dso_bot](http://t.me/fernanda_rossmann_bot).
+O Bot no Telegram pode ser  acessado por [fernanda_rossmann_bot](http://t.me/fernanda_rossmann_bot).
 
 Abaixo mostra um exemplo de uso do bot para fazer a previsão de vendas.
 
